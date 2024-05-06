@@ -10,3 +10,5 @@ Nested loop explaination video: https://youtu.be/Zz5Nld7Zh-M
 Monkey-Banana Video explaination video: https://youtu.be/o229ma55u7w
 
 Explain a Video: Draw a triangle, square, and pentagon! : https://youtu.be/xllHP701Wso
+
+Conditional Loop Explaination Video: 
