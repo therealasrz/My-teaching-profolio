@@ -14,3 +14,5 @@ Explain a Video: Draw a triangle, square, and pentagon! : https://youtu.be/xllHP
 Conditional Loop Explaination Video: https://youtu.be/TqRfsbAsQME
 
 If/else Condition Explaination Video: https://youtu.be/Nbx7bCkX1rU
+
+Nested If/else Condition Explaination Video: https://youtu.be/lg6MsgFt2jw
