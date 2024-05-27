@@ -16,3 +16,5 @@ Conditional Loop Explaination Video: https://youtu.be/TqRfsbAsQME
 If/else Condition Explaination Video: https://youtu.be/Nbx7bCkX1rU
 
 Nested If/else Condition Explaination Video: https://youtu.be/lg6MsgFt2jw
+
+Compound conditionals Condition Explaination Video: https://youtu.be/TCaf3hcSs2Y
